@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.number{
+        margin: 50px 0;
+}
+
+.number input{
+    width: 20px;
+    height: 30px;
+}
+.text_won input{
+    width: 200px;
+}
